@@ -53,11 +53,6 @@ print(secret_msg_2)
 
 
 
-
-
-
-
-
 # --------------
 # File path for message 4  and message 5
 file_path_4
